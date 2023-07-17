@@ -1,0 +1,14 @@
+git commands
+
+  *git init
+  *git clone”url of git repo”
+  *git add .
+  *git status
+  *git commit -m”commit message”
+  *git push
+  *git pull:to take changes in local
+  *git fetch:update global and local repository
+  *git fetch
+  *git checkout branch name:it checkout branch 
+  *git reset: if we dont want any uncommited file.
+  *git rm:it remove commited file local 
